@@ -1,0 +1,17 @@
+
+
+
+ 	 Orbystopia is a text based game, you can enter the following commands to control your character.
+	  
+	 each command will ask you to enter further information but you can also combine your answer in one command, 
+
+	 for example float forward instead of float and then forward.
+
+
+			float [direction] ---> forward, left, up, down etc. to move around.
+			show [stats/directions] ---> to show character stats or directions.
+			search [cell/terminal] ---> to search cell or terminal.
+			use ---> to use item by entering it's id.
+			link ---> to jack in to cyberspace(when asked enter yes to jack in or anything else to continue).
+			quit ---> to quit game.
+			help ---> to display this page.
